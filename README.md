@@ -1,6 +1,6 @@
 # 673380217-9_sec1_INET
 
-Lab1: Case Study - Part 4 [ITN 7.02 – Case Study - Part 4 (Modules 11-13)] 
+ internet working 2569
 
 นายณัฐวิชช์ วารินร์ธนากานต์ 67380217-9 section 1
 
