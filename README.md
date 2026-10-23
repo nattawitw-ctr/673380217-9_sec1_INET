@@ -4,4 +4,4 @@
 
 นายณัฐวิชช์ วารินร์ธนากานต์ 67380217-9 section 1
 
-โฟลเดอร์Lab : Lab673380217-9_sec1_INET
+โฟลเดอร์Lab : Lab673380217-9_sec1_INET,Final Project (pre_capstone_list), ใบ Certificate จาก netacad
